@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Hạt gạo",
+    "size": 7,
+    "unit": "mm",
+    "image": "assets/objects/01.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rice_grains.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Vadakkan"
+  },
+  {
+    "name": "Hạt đậu xanh",
+    "size": 5,
+    "unit": "mm",
+    "image": "assets/objects/02.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mung_beans_%28Vigna_radiata%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Ivar Leidus"
+  },
+  {
+    "name": "Hạt cà phê",
+    "size": 10,
+    "unit": "mm",
+    "image": "assets/objects/03.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
+    "license": "Public domain",
+    "artist": "MarkSweep"
+  },
+  {
+    "name": "Con kiến",
+    "size": 6,
+    "unit": "mm",
+    "image": "assets/objects/04.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Samantha Henneke from Seagrove, North Carolina, USA"
+  },
+  {
+    "name": "Con ong mật",
+    "size": 15,
+    "unit": "mm",
+    "image": "assets/objects/05.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
+    "license": "CC BY-SA 2.5",
+    "artist": "Andreas Trepte"
+  },
+  {
+    "name": "Con bướm",
+    "size": 50,
+    "unit": "mm",
+    "image": "assets/objects/06.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_%28by%29.jpg",
+    "license": "CC BY 2.0",
+    "artist": "fesoj"
+  },
+  {
+    "name": "Đồng xu",
+    "size": 24,
+    "unit": "mm",
+    "image": "assets/objects/07.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Kiloware.JPG",
+    "license": "CC BY-SA 4.0",
+    "artist": "Michael Sander"
+  },
+  {
+    "name": "Viên bi",
+    "size": 16,
+    "unit": "mm",
+    "image": "assets/objects/08.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Marble_collector_-_Flickr_-_smkybear.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Wendy"
+  },
+  {
+    "name": "Nút áo",
+    "size": 12,
+    "unit": "mm",
+    "image": "assets/objects/09.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Reserveknapper_til_Hans%27_uniform.jpg",
+    "license": "Public domain",
+    "artist": "Europeana staff photographer"
+  },
+  {
+    "name": "Cục tẩy",
+    "size": 4,
+    "unit": "cm",
+    "image": "assets/objects/10.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Office-pink-erasers.jpg",
+    "license": "Public domain",
+    "artist": "Evan-Amos"
+  },
+  {
+    "name": "Chìa khóa",
+    "size": 6,
+    "unit": "cm",
+    "image": "assets/objects/11.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
+    "license": "CC BY 4.0",
+    "artist": "Trougnouf"
+  },
+  {
+    "name": "Quả trứng gà",
+    "size": 6,
+    "unit": "cm",
+    "image": "assets/objects/12.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_chicken_egg.jpg",
+    "license": "Public domain",
+    "artist": "Garitzko"
+  },
+  {
+    "name": "Thẻ ngân hàng",
+    "size": 8.56,
+    "unit": "cm",
+    "image": "assets/objects/13.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Credit-cards.jpg",
+    "license": "CC BY-SA 2.5",
+    "artist": "Lotus Head from Johannesburg, Gauteng, South Africa"
+  },
+  {
+    "name": "Điện thoại",
+    "size": 15,
+    "unit": "cm",
+    "image": "assets/objects/14.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wikipedia_homepage_on_a_large_Android_phone%2C_2015-04-16.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Sage Ross"
+  },
+  {
+    "name": "Bút chì",
+    "size": 19,
+    "unit": "cm",
+    "image": "assets/objects/15.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pencils_hb.jpg",
+    "license": "CC BY 3.0",
+    "artist": "Original uploader was Dmgerman at en.wikipedia"
+  },
+  {
+    "name": "Bàn tay người lớn",
+    "size": 18,
+    "unit": "cm",
+    "image": "assets/objects/16.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hand%2C_fingers_-_back.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Genusfotografen (Tomas Gunnarsson) / Wikimedia"
+  },
+  {
+    "name": "Quyển sách",
+    "size": 24,
+    "unit": "cm",
+    "image": "assets/objects/17.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "NYC Wanderer (Kevin Eng)"
+  },
+  {
+    "name": "Chai nước nhỏ",
+    "size": 22,
+    "unit": "cm",
+    "image": "assets/objects/18.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Multi-use_water_bottle.JPG",
+    "license": "CC BY-SA 3.0",
+    "artist": "Amraepowell"
+  },
+  {
+    "name": "Quả bóng đá",
+    "size": 22,
+    "unit": "cm",
+    "image": "assets/objects/19.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Rick Dikeman"
+  },
+  {
+    "name": "Thước kẻ",
+    "size": 30,
+    "unit": "cm",
+    "image": "assets/objects/20.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Diverse%C2%B7Ma%C3%9Fst%C3%A4be%2C15.365.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Geof"
+  },
+  {
+    "name": "Bàn phím máy tính",
+    "size": 44,
+    "unit": "cm",
+    "image": "assets/objects/21.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Black_computer_keyboard.jpg",
+    "license": "Public domain",
+    "artist": "Marius Iordache"
+  },
+  {
+    "name": "Gối ngủ",
+    "size": 60,
+    "unit": "cm",
+    "image": "assets/objects/22.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Amin"
+  },
+  {
+    "name": "Cây đàn guitar",
+    "size": 1,
+    "unit": "m",
+    "image": "assets/objects/23.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
+    "license": "CC BY-SA 2.0 de",
+    "artist": "User:Martin Möller Talk"
+  },
+  {
+    "name": "Bàn học",
+    "size": 1.2,
+    "unit": "m",
+    "image": "assets/objects/24.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bureau_table_MET_DP108643.jpg",
+    "license": "CC0",
+    "artist": "John Townsend"
+  },
+  {
+    "name": "Xe đạp",
+    "size": 1.7,
+    "unit": "m",
+    "image": "assets/objects/25.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+    "license": "CC BY 2.0",
+    "artist": "齐健 from Peking, People's Republic of China"
+  },
+  {
+    "name": "Người trưởng thành",
+    "size": 1.7,
+    "unit": "m",
+    "image": "assets/objects/26.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
+    "license": "CC BY-SA 2.0 de",
+    "artist": "Weltenbummler84"
+  },
+  {
+    "name": "Cửa ra vào",
+    "size": 2,
+    "unit": "m",
+    "image": "assets/objects/27.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:20260114_The_Door.jpg",
+    "license": "CC BY 4.0",
+    "artist": "Sergey A. Demidov / Sergey A. Demidov"
+  },
+  {
+    "name": "Giường đôi",
+    "size": 2,
+    "unit": "m",
+    "image": "assets/objects/28.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_%2811%29.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia)"
+  },
+  {
+    "name": "Ô tô con",
+    "size": 4.5,
+    "unit": "m",
+    "image": "assets/objects/29.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:White_Toyota_Corolla_sedan_in_San_Jose_California_dllu.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Daniel Lu (User:dllu)"
+  },
+  {
+    "name": "Xe buýt",
+    "size": 12,
+    "unit": "m",
+    "image": "assets/objects/30.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "SIA321"
+  },
+  {
+    "name": "Cột đèn đường",
+    "size": 9,
+    "unit": "m",
+    "image": "assets/objects/31.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Street_lamp.jpg",
+    "license": "Public domain",
+    "artist": "Mschel"
+  },
+  {
+    "name": "Hồ bơi thi đấu",
+    "size": 50,
+    "unit": "m",
+    "image": "assets/objects/32.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Backyardpool.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Vic Brincat from Keswick, Ontario, Canada"
+  },
+  {
+    "name": "Máy bay chở khách",
+    "size": 70,
+    "unit": "m",
+    "image": "assets/objects/33.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:United_A320_N405UA_at_BOS_%2833787222465%29.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "G B_NZ"
+  },
+  {
+    "name": "Sân bóng đá",
+    "size": 105,
+    "unit": "m",
+    "image": "assets/objects/34.webp",
+    "imageSource": "https://unsplash.com/photos/empty-football-field-in-aerial-photgraphy-raesgfwU7iM",
+    "license": "Unsplash License",
+    "artist": "Victor"
+  },
+  {
+    "name": "Tháp Eiffel",
+    "size": 330,
+    "unit": "m",
+    "image": "assets/objects/35.webp",
+    "imageSource": "https://unsplash.com/photos/0UGBFphLYeE",
+    "license": "Unsplash License",
+    "artist": "Calvin Craig"
+  }
+]
