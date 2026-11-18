@@ -28,7 +28,7 @@ Kích thước trong `data/objects.json` là số đo tham khảo gần đúng t
 
 ## Deploy
 
-GitHub Pages: chưa có link vì thư mục hiện chưa được kết nối với một GitHub repository và phiên `gh` hiện không hợp lệ. Sau khi có repository, đưa toàn bộ file lên nhánh chính, bật Pages từ thư mục gốc và kiểm tra lại hai game trên link công khai.
+Repository: [Afflech/doan-nhanh-web-game](https://github.com/Afflech/doan-nhanh-web-game) (riêng tư). Mã nguồn đã ở nhánh `main`. GitHub Pages chưa được bật; khi cần bản demo công khai, đổi mức hiển thị repo theo lựa chọn của chủ dự án rồi bật Pages từ thư mục gốc.
 
 ## Ảnh game kích thước
 
