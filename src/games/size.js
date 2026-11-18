@@ -9,44 +9,18 @@ const formatLength = value => {
   if (value >= 1000) return `${format(value / 1000)} km`;
   return `${format(value)} m`;
 };
-const groups = {
-  "Hạt đậu xanh":"round","Hạt cà phê":"round","Đồng xu":"round","Viên bi":"round",
-  "Nút áo":"round","Quả trứng gà":"round","Quả bóng đá":"round",
-  "Con kiến":"insect","Con ong mật":"insect","Con bướm":"insect",
-  "Chìa khóa":"long","Bút chì":"long","Thước kẻ":"long","Cây đàn guitar":"long",
-  "Thẻ ngân hàng":"box","Điện thoại":"box","Quyển sách":"box","Bàn phím máy tính":"box",
-  "Bàn tay người lớn":"person","Người trưởng thành":"person",
-  "Xe đạp":"vehicle","Ô tô con":"vehicle","Xe buýt":"vehicle","Máy bay chở khách":"vehicle",
-  "Cửa ra vào":"box","Giường đôi":"box"
-};
-const basicShapes = {
-  round:"M50 10 A40 40 0 1 0 50 90 A40 40 0 1 0 50 10Z",
-  insect:"M50 35 A18 25 0 1 0 50 85 A18 25 0 1 0 50 35Z M20 20 L50 48 L80 20 M10 70 L40 65 M60 65 L90 70",
-  long:"M42 8 H58 V92 H42Z",
-  box:"M18 12 H82 V88 H18Z",
-  person:"M50 12 A12 12 0 1 0 50 36 A12 12 0 1 0 50 12Z M35 40 H65 L72 70 H58 V94 H43 V70 H28Z",
-  vehicle:"M10 55 H25 L38 35 H68 L82 55 H92 V76 H10Z M26 76 A9 9 0 1 0 44 76 M62 76 A9 9 0 1 0 80 76"
-};
-const shapes = {
-  "Hạt gạo":"M20 75 Q50 10 80 75 Q50 88 20 75Z",
-  "Cục tẩy":"M15 40 L70 22 L88 55 L32 75Z",
-  "Chai nước nhỏ":"M40 8 H60 V20 L70 31 V88 H30 V31 L40 20Z",
-  "Gối ngủ":"M15 30 Q50 20 85 30 L85 70 Q50 80 15 70Z",
-  "Bàn học":"M5 30 H95 V42 H85 V92 H76 V42 H24 V92 H15 V42 H5Z",
-  "Cột đèn đường":"M48 16 H78 V23 H56 V92 H47 V23 H38 V16Z",
-  "Hồ bơi thi đấu":"M8 28 H92 V78 H8Z M8 45 H92 M8 62 H92",
-  "Sân bóng đá":"M8 25 H92 V75 H8Z M50 25 V75 M42 50 A8 8 0 1 0 58 50 A8 8 0 1 0 42 50",
-  "Tháp Eiffel":"M48 8 H52 L57 50 L77 92 H23 L43 50Z M33 70 H67 M40 50 H60"
-};
 const iconFor = item => item.path
   ? `<svg viewBox="0 0 ${item.width} ${item.height}" aria-hidden="true"><path d="${item.path}"/></svg>`
-  : `<svg viewBox="0 0 100 100" aria-hidden="true"><path d="${shapes[item.name] || basicShapes[groups[item.name]]}"/></svg>`;
+  : `<svg viewBox="0 0 ${item.iconSize} ${item.iconSize}" aria-hidden="true"><path ${item.iconSize === 100 ? 'fill-rule="evenodd" ' : ""}d="${item.iconPath}"/></svg>`;
 const axes = {
   "Con bướm":"sải cánh","Đồng xu":"đường kính","Viên bi":"đường kính",
   "Nút áo":"đường kính","Quả bóng đá":"đường kính",
   "Quả trứng gà":"chiều cao","Điện thoại":"chiều cao","Quyển sách":"chiều cao",
   "Chai nước nhỏ":"chiều cao","Người trưởng thành":"chiều cao","Cửa ra vào":"chiều cao",
-  "Cột đèn đường":"chiều cao","Tháp Eiffel":"chiều cao"
+  "Cột đèn đường":"chiều cao","Tháp Eiffel":"chiều cao",
+  "Cốc thủy tinh":"chiều cao","Quả bóng rổ":"đường kính",
+  "Va li":"chiều cao","Ghế gỗ":"chiều cao",
+  "Tủ lạnh":"chiều cao","Cây thông":"chiều cao","Ô gấp":"đường kính"
 };
 const axisFor = item => axes[item.name] || "chiều dài";
 const formatMeters = value => `${new Intl.NumberFormat("vi-VN", { maximumSignificantDigits: 4 }).format(value)} m`;
@@ -133,8 +107,9 @@ export function mount(root) {
     function fitIcon(shape) {
       const svg = shape.querySelector("svg");
       const box = svg.querySelector("path").getBBox();
-      svg.setAttribute("viewBox", `${box.x - 2} ${box.y - 2} ${box.width + 4} ${box.height + 4}`);
-      return (box.width + 4) / (box.height + 4);
+      const pad = 0.5;
+      svg.setAttribute("viewBox", `${box.x - pad} ${box.y - pad} ${box.width + pad * 2} ${box.height + pad * 2}`);
+      return (box.width + pad * 2) / (box.height + pad * 2);
     }
     const referenceAspect = geography ? reference.width / reference.height : fitIcon(referenceShape);
     const targetAspect = geography ? target.width / target.height : fitIcon(frame);

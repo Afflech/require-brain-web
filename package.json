@@ -2,11 +2,15 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:countries": "node tools/build-countries.mjs"
+    "build:countries": "node tools/build-countries.mjs",
+    "build:object-icons": "node tools/build-object-icons.mjs"
   },
   "dependencies": {
     "d3-geo": "^3.1.2",
     "topojson-client": "^3.1.0",
     "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@mdi/svg": "^7.4.47"
   }
 }

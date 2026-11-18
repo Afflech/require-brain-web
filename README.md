@@ -20,9 +20,11 @@ Trong thư mục dự án, chạy `python3 -m http.server 8000` rồi mở `http
 
 ## Dữ liệu và nguồn
 
-Danh sách từ trong `data/answers.txt` và `data/allowed.txt` gồm **208 đáp án** và **600 từ đoán bổ sung**, đều là từ tiếng Anh 5 chữ được chọn lọc thủ công và kiểm tra chính tả. Nguồn tham khảo mở: [dwyl/english-words](https://github.com/dwyl/english-words), giấy phép [Unlicense](https://github.com/dwyl/english-words/blob/master/LICENSE.md). Không dùng danh sách đáp án hoặc thương hiệu của game gốc.
+Danh sách từ trong `data/answers.txt` và `data/allowed.txt` gồm **254 đáp án** và **621 từ đoán bổ sung** (875 từ riêng biệt). Các từ thêm mới là từ tiếng Anh 5 chữ thông dụng, tối đa khoảng B2, được đối chiếu chính tả với nguồn mở [dwyl/english-words](https://github.com/dwyl/english-words), giấy phép [Unlicense](https://github.com/dwyl/english-words/blob/master/LICENSE.md). Không dùng danh sách đáp án hoặc thương hiệu của game gốc.
 
 Kích thước trong `data/objects.json` là số đo tham khảo gần đúng theo chiều dài, chiều cao hoặc đường kính thường gặp, chỉ phục vụ trò chơi; kích thước thực tế có thể thay đổi theo mẫu vật.
+
+Hình bóng của 39 vật thể lấy từ [Material Design Icons](https://pictogrammers.com/library/mdi/) (Apache 2.0); 11 hình còn lại tự vẽ để khớp đúng vật. Script `tools/build-object-icons.mjs` chép đường vẽ SVG vào `data/objects.json`; trang web không tải bộ icon khi chạy. Xem [thông báo MDI](tools/MDI-LICENSE.txt) và [giấy phép Apache 2.0](tools/APACHE-2.0.txt). Tạo lại hình bóng bằng `npm run build:object-icons`.
 
 Đường viền trong `data/countries.json` lấy từ [Natural Earth 1:110m qua world-atlas](https://github.com/topojson/world-atlas#countries-110mjson). [Natural Earth thuộc phạm vi công cộng](https://www.naturalearthdata.com/about/terms-of-use/). Script `tools/build-countries.mjs` chọn 30 quốc gia, chiếu từng nước bằng phép chiếu bảo toàn diện tích, rồi tính `areaKm2` bằng `d3.geoArea × 6371²`; không nhập tay diện tích. Để tạo lại dữ liệu: chạy `npm install` và `npm run build:countries`. Các gói npm chỉ dùng khi tạo dữ liệu, trang web vẫn là HTML/CSS/JS thuần.
 
@@ -32,7 +34,7 @@ Repository công khai: [Afflech/require-brain-web](https://github.com/Afflech/re
 
 ## Ảnh game kích thước
 
-35 ảnh thật đã được lưu trong `assets/objects/` để game chạy cả khi không có mạng. Ảnh được thu nhỏ, chuyển sang WebP và thêm nền cho cùng kích thước khung. Tác giả, giấy phép và trang ảnh gốc:
+50 ảnh thật đã được lưu trong `assets/objects/` để game chạy cả khi không có mạng. Ảnh được thu nhỏ, chuyển sang WebP và thêm nền cho cùng kích thước khung. Tác giả, giấy phép và trang ảnh gốc:
 
 | Vật | Tác giả | Giấy phép | Ảnh gốc |
 |---|---|---|---|
@@ -71,3 +73,18 @@ Repository công khai: [Afflech/require-brain-web](https://github.com/Afflech/re
 | Máy bay chở khách | G B_NZ | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Xem ảnh](https://commons.wikimedia.org/wiki/File:United_A320_N405UA_at_BOS_%2833787222465%29.jpg) |
 | Sân bóng đá | Victor | [Unsplash License](https://unsplash.com/license) | [Xem ảnh](https://unsplash.com/photos/empty-football-field-in-aerial-photgraphy-raesgfwU7iM) |
 | Tháp Eiffel | Calvin Craig | [Unsplash License](https://unsplash.com/license) | [Xem ảnh](https://unsplash.com/photos/0UGBFphLYeE) |
+| Đèn pin | KMJ at German Wikipedia | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Flashlight.jpg>) |
+| Bàn chải đánh răng | Jonas Bergsten | Public domain | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Toothbrush_20050716_004.jpg>) |
+| Cái kéo | Crisco 1492 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Pair_of_scissors_with_black_handle,_2015-06-07.jpg>) |
+| Cốc thủy tinh | Derek Jensen (Tysto) | Public domain | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Glass-of-water.jpg>) |
+| Thìa ăn | Dodek | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Small_spoon.jpg>) |
+| Đồng hồ đeo tay | Cvmontuy | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg>) |
+| Máy ảnh | Packer1028 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:12_MP_digital_camera_-_red.jpg>) |
+| Quả bóng rổ | Reisio | Public domain | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Basketball.jpeg>) |
+| Va li | Berthold Werner | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Suitcase_BW_2025-08-17_14-54-11.jpg>) |
+| Máy tính xách tay | Simon Law from Montréal, QC, Canada | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:A_One_Laptop_per_Child_computer_(1273754008).jpg>) |
+| Ghế gỗ | epSos.de | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Wooden_Chair.jpg>) |
+| Tủ lạnh | Dinkun Chen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Panasonic_HOME_REFRIGERATOR_NR-C320WP-N.jpg>) |
+| Cây thông | Mick Borroff | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Isolated_pine_tree_on_Witton_Fell_-_geograph.org.uk_-_638627.jpg>) |
+| Xe máy | Yanko Malinov | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Side-view_of_the_Horex_VR6_Classic_motorcycle.jpg>) |
+| Ô gấp | C.Suthorn | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Xem ảnh](<https://commons.wikimedia.org/wiki/File:Umbrella_01.jpg>) |

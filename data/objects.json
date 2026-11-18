@@ -6,7 +6,9 @@
     "image": "assets/objects/01.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Rice_grains.jpg",
     "license": "CC BY-SA 3.0",
-    "artist": "Vadakkan"
+    "artist": "Vadakkan",
+    "iconPath": "M8 77 Q20 27 87 14 Q75 68 20 84Z M23 68 Q43 35 69 30 Q51 58 23 68Z",
+    "iconSize": 100
   },
   {
     "name": "Hạt đậu xanh",
@@ -15,7 +17,9 @@
     "image": "assets/objects/02.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Mung_beans_%28Vigna_radiata%29.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "Ivar Leidus"
+    "artist": "Ivar Leidus",
+    "iconPath": "M20.7,3.3C20.7,3.3 19.3,3 17.2,3C11.7,3 1.6,5.1 3.2,20.8C4.3,20.9 5.4,21 6.4,21C24.3,21 20.7,3.3 20.7,3.3M7,17C7,17 7,7 17,7C17,7 11,9 7,17Z",
+    "iconSize": 24
   },
   {
     "name": "Hạt cà phê",
@@ -24,7 +28,9 @@
     "image": "assets/objects/03.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg",
     "license": "Public domain",
-    "artist": "MarkSweep"
+    "artist": "MarkSweep",
+    "iconPath": "M52 10 C92 13 96 60 69 85 C44 106 7 85 9 49 C12 23 29 9 52 10Z M56 18 C43 37 66 54 41 82 C51 73 55 61 53 52 C50 39 43 33 56 18Z",
+    "iconSize": 100
   },
   {
     "name": "Con kiến",
@@ -33,7 +39,9 @@
     "image": "assets/objects/04.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
     "license": "CC BY 2.0",
-    "artist": "Samantha Henneke from Seagrove, North Carolina, USA"
+    "artist": "Samantha Henneke from Seagrove, North Carolina, USA",
+    "iconPath": "M17 44 A9 9 0 1 0 17 62 A9 9 0 1 0 17 44Z M43 40 A11 13 0 1 0 43 66 A11 13 0 1 0 43 40Z M73 33 A18 20 0 1 0 73 73 A18 20 0 1 0 73 33Z M34 57 L22 82 L27 84 L43 59Z M44 59 L40 85 L45 85 L51 59Z M59 56 L73 83 L78 80 L67 55Z M11 47 L5 29 L9 27 L19 44Z M19 44 L18 26 L22 26 L24 44Z",
+    "iconSize": 100
   },
   {
     "name": "Con ong mật",
@@ -42,7 +50,9 @@
     "image": "assets/objects/05.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
     "license": "CC BY-SA 2.5",
-    "artist": "Andreas Trepte"
+    "artist": "Andreas Trepte",
+    "iconPath": "M17.4 9C17 7.8 16.2 7 15 6.5V5H14V6.4H13.6C12.5 6.4 11.6 6.8 10.8 7.6L10.4 8L9 7.5C8.7 7.4 8.4 7.3 8 7.3C7.4 7.3 6.8 7.5 6.3 7.9C5.7 8.3 5.4 8.8 5.2 9.3C5 10 5 10.6 5.2 11.3C5.5 12 5.8 12.5 6.3 12.8C5.9 14.3 6.2 15.6 7.3 16.7C8.1 17.5 9 17.9 10.1 17.9C10.6 17.9 10.9 17.9 11.2 17.8C11.8 18.6 12.6 19.1 13.6 19.1C13.9 19.1 14.3 19.1 14.6 19C15.2 18.8 15.6 18.4 16 17.9C16.4 17.3 16.6 16.8 16.6 16.2C16.6 15.8 16.6 15.5 16.5 15.2L16 13.6L16.6 13.2C17.4 12.4 17.8 11.3 17.7 10.1H19V9H17.4M7.7 11.3C7.1 11 6.9 10.6 7.1 10C7.3 9.4 7.7 9.2 8.3 9.4L11.5 10.6C9.9 11.4 8.7 11.6 7.7 11.3M14 16.9C13.4 17.1 13 16.9 12.7 16.3C12.4 15.3 12.6 14.1 13.4 12.5L14.6 15.6C14.8 16.3 14.6 16.7 14 16.9M15.2 11.6L14.6 10V9.9L14.3 9.6H14.2L12.6 9C13 8.7 13.4 8.5 13.9 8.5C14.4 8.5 14.9 8.7 15.3 9.1C15.7 9.5 15.9 9.9 15.9 10.4C15.7 10.7 15.5 11.2 15.2 11.6Z",
+    "iconSize": 24
   },
   {
     "name": "Con bướm",
@@ -51,7 +61,9 @@
     "image": "assets/objects/06.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_%28by%29.jpg",
     "license": "CC BY 2.0",
-    "artist": "fesoj"
+    "artist": "fesoj",
+    "iconPath": "M13 21H11V6L9.03 3.97L10 3L12 5L14 3L15 4L13 6V21M7 6C4.24 6 2 8.24 2 11C2 12.64 2.79 14.09 4 15H4V17C4 19.21 5.79 21 8 21C8.72 21 9.39 20.81 9.97 20.5L10 20.46V7C9.16 6.37 8.13 6 7 6M6.5 12.5L5 11L6.5 9.5L8 11L6.5 12.5M22 11C22 8.24 19.76 6 17 6C15.88 6 14.85 6.37 14 7L14 7V20.46C14.59 20.81 15.27 21 16 21C18.21 21 20 19.21 20 17V15H20C21.21 14.09 22 12.64 22 11M17.5 12.5L16 11L17.5 9.5L19 11L17.5 12.5Z",
+    "iconSize": 24
   },
   {
     "name": "Đồng xu",
@@ -60,7 +72,9 @@
     "image": "assets/objects/07.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Kiloware.JPG",
     "license": "CC BY-SA 4.0",
-    "artist": "Michael Sander"
+    "artist": "Michael Sander",
+    "iconPath": "M50 4 A46 46 0 1 0 50 96 A46 46 0 1 0 50 4Z M50 13 A37 37 0 1 1 50 87 A37 37 0 1 1 50 13Z M50 24 A26 26 0 1 0 50 76 A26 26 0 1 0 50 24Z",
+    "iconSize": 100
   },
   {
     "name": "Viên bi",
@@ -69,7 +83,9 @@
     "image": "assets/objects/08.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Marble_collector_-_Flickr_-_smkybear.jpg",
     "license": "CC BY-SA 2.0",
-    "artist": "Wendy"
+    "artist": "Wendy",
+    "iconPath": "M50 5 A45 45 0 1 0 50 95 A45 45 0 1 0 50 5Z M29 38 C41 14 68 14 78 33 C62 20 41 25 29 38Z M23 59 C33 75 57 83 75 69 C59 88 32 83 23 59Z",
+    "iconSize": 100
   },
   {
     "name": "Nút áo",
@@ -78,7 +94,9 @@
     "image": "assets/objects/09.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Reserveknapper_til_Hans%27_uniform.jpg",
     "license": "Public domain",
-    "artist": "Europeana staff photographer"
+    "artist": "Europeana staff photographer",
+    "iconPath": "M50 4 A46 46 0 1 0 50 96 A46 46 0 1 0 50 4Z M35 30 A6 6 0 1 0 35 42 A6 6 0 1 0 35 30Z M65 30 A6 6 0 1 0 65 42 A6 6 0 1 0 65 30Z M35 58 A6 6 0 1 0 35 70 A6 6 0 1 0 35 58Z M65 58 A6 6 0 1 0 65 70 A6 6 0 1 0 65 58Z",
+    "iconSize": 100
   },
   {
     "name": "Cục tẩy",
@@ -87,7 +105,9 @@
     "image": "assets/objects/10.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Office-pink-erasers.jpg",
     "license": "Public domain",
-    "artist": "Evan-Amos"
+    "artist": "Evan-Amos",
+    "iconPath": "M16.24,3.56L21.19,8.5C21.97,9.29 21.97,10.55 21.19,11.34L12,20.53C10.44,22.09 7.91,22.09 6.34,20.53L2.81,17C2.03,16.21 2.03,14.95 2.81,14.16L13.41,3.56C14.2,2.78 15.46,2.78 16.24,3.56M4.22,15.58L7.76,19.11C8.54,19.9 9.8,19.9 10.59,19.11L14.12,15.58L9.17,10.63L4.22,15.58Z",
+    "iconSize": 24
   },
   {
     "name": "Chìa khóa",
@@ -96,7 +116,9 @@
     "image": "assets/objects/11.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Solex_99_30_padlock_with_keys_%28DSCF2659%29.jpg",
     "license": "CC BY 4.0",
-    "artist": "Trougnouf"
+    "artist": "Trougnouf",
+    "iconPath": "M7 14C5.9 14 5 13.1 5 12S5.9 10 7 10 9 10.9 9 12 8.1 14 7 14M12.6 10C11.8 7.7 9.6 6 7 6C3.7 6 1 8.7 1 12S3.7 18 7 18C9.6 18 11.8 16.3 12.6 14H16V18H20V14H23V10H12.6Z",
+    "iconSize": 24
   },
   {
     "name": "Quả trứng gà",
@@ -105,7 +127,9 @@
     "image": "assets/objects/12.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Brown_chicken_egg.jpg",
     "license": "Public domain",
-    "artist": "Garitzko"
+    "artist": "Garitzko",
+    "iconPath": "M19.5,14.5A7.5,7.5 0 0,1 12,22A7.5,7.5 0 0,1 4.5,14.5C4.5,10.36 7.86,2 12,2C16.14,2 19.5,10.36 19.5,14.5Z",
+    "iconSize": 24
   },
   {
     "name": "Thẻ ngân hàng",
@@ -114,7 +138,9 @@
     "image": "assets/objects/13.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Credit-cards.jpg",
     "license": "CC BY-SA 2.5",
-    "artist": "Lotus Head from Johannesburg, Gauteng, South Africa"
+    "artist": "Lotus Head from Johannesburg, Gauteng, South Africa",
+    "iconPath": "M20 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H20A2 2 0 0 0 22 18V6A2 2 0 0 0 20 4M20 11H4V8H20Z",
+    "iconSize": 24
   },
   {
     "name": "Điện thoại",
@@ -123,7 +149,9 @@
     "image": "assets/objects/14.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Wikipedia_homepage_on_a_large_Android_phone%2C_2015-04-16.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "Sage Ross"
+    "artist": "Sage Ross",
+    "iconPath": "M17,19H7V5H17M17,1H7C5.89,1 5,1.89 5,3V21A2,2 0 0,0 7,23H17A2,2 0 0,0 19,21V3C19,1.89 18.1,1 17,1Z",
+    "iconSize": 24
   },
   {
     "name": "Bút chì",
@@ -132,7 +160,9 @@
     "image": "assets/objects/15.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pencils_hb.jpg",
     "license": "CC BY 3.0",
-    "artist": "Original uploader was Dmgerman at en.wikipedia"
+    "artist": "Original uploader was Dmgerman at en.wikipedia",
+    "iconPath": "M20.71,7.04C21.1,6.65 21.1,6 20.71,5.63L18.37,3.29C18,2.9 17.35,2.9 16.96,3.29L15.12,5.12L18.87,8.87M3,17.25V21H6.75L17.81,9.93L14.06,6.18L3,17.25Z",
+    "iconSize": 24
   },
   {
     "name": "Bàn tay người lớn",
@@ -141,7 +171,9 @@
     "image": "assets/objects/16.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hand%2C_fingers_-_back.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "Genusfotografen (Tomas Gunnarsson) / Wikimedia"
+    "artist": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+    "iconPath": "M19.75 8C19.06 8 18.5 8.56 18.5 9.25V15H18C16.35 15 15 16.35 15 18H14C14 15.96 15.53 14.28 17.5 14.03V3.25C17.5 2.56 16.94 2 16.25 2C15.56 2 15 2.56 15 3.25V11H14V1.25C14 .56 13.44 0 12.75 0S11.5 .56 11.5 1.25V11H10.5V2.75C10.5 2.06 9.94 1.5 9.25 1.5S8 2.06 8 2.75V12H7V5.75C7 5.06 6.44 4.5 5.75 4.5S4.5 5.06 4.5 5.75V15.75C4.5 20.31 8.19 24 12.75 24S21 20.31 21 15.75V9.25C21 8.56 20.44 8 19.75 8Z",
+    "iconSize": 24
   },
   {
     "name": "Quyển sách",
@@ -150,7 +182,9 @@
     "image": "assets/objects/17.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
     "license": "CC BY-SA 2.0",
-    "artist": "NYC Wanderer (Kevin Eng)"
+    "artist": "NYC Wanderer (Kevin Eng)",
+    "iconPath": "M12 21.5C10.65 20.65 8.2 20 6.5 20C4.85 20 3.15 20.3 1.75 21.05C1.65 21.1 1.6 21.1 1.5 21.1C1.25 21.1 1 20.85 1 20.6V6C1.6 5.55 2.25 5.25 3 5C4.11 4.65 5.33 4.5 6.5 4.5C8.45 4.5 10.55 4.9 12 6C13.45 4.9 15.55 4.5 17.5 4.5C18.67 4.5 19.89 4.65 21 5C21.75 5.25 22.4 5.55 23 6V20.6C23 20.85 22.75 21.1 22.5 21.1C22.4 21.1 22.35 21.1 22.25 21.05C20.85 20.3 19.15 20 17.5 20C15.8 20 13.35 20.65 12 21.5M12 8V19.5C13.35 18.65 15.8 18 17.5 18C18.7 18 19.9 18.15 21 18.5V7C19.9 6.65 18.7 6.5 17.5 6.5C15.8 6.5 13.35 7.15 12 8M13 11.5C14.11 10.82 15.6 10.5 17.5 10.5C18.41 10.5 19.26 10.59 20 10.78V9.23C19.13 9.08 18.29 9 17.5 9C15.73 9 14.23 9.28 13 9.84V11.5M17.5 11.67C15.79 11.67 14.29 11.93 13 12.46V14.15C14.11 13.5 15.6 13.16 17.5 13.16C18.54 13.16 19.38 13.24 20 13.4V11.9C19.13 11.74 18.29 11.67 17.5 11.67M20 14.57C19.13 14.41 18.29 14.33 17.5 14.33C15.67 14.33 14.17 14.6 13 15.13V16.82C14.11 16.16 15.6 15.83 17.5 15.83C18.54 15.83 19.38 15.91 20 16.07V14.57Z",
+    "iconSize": 24
   },
   {
     "name": "Chai nước nhỏ",
@@ -159,7 +193,9 @@
     "image": "assets/objects/18.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Multi-use_water_bottle.JPG",
     "license": "CC BY-SA 3.0",
-    "artist": "Amraepowell"
+    "artist": "Amraepowell",
+    "iconPath": "M15 13.77A3 3 0 0 0 15 18.23V20A2 2 0 0 1 13 22H11A2 2 0 0 1 9 20V18.23A3 3 0 0 0 9 13.77V9A12.28 12.28 0 0 0 10.91 4H10V2H14V4H13.09A12.28 12.28 0 0 0 15 9Z",
+    "iconSize": 24
   },
   {
     "name": "Quả bóng đá",
@@ -168,7 +204,9 @@
     "image": "assets/objects/19.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington%2C_Indiana%2C_1995.jpg",
     "license": "CC BY-SA 3.0",
-    "artist": "Rick Dikeman"
+    "artist": "Rick Dikeman",
+    "iconPath": "M16.93 17.12L16.13 15.76L17.59 11.39L19 10.92L20 11.67C20 11.7 20 11.75 20 11.81C20 11.88 20.03 11.94 20.03 12C20.03 13.97 19.37 15.71 18.06 17.21L16.93 17.12M9.75 15L8.38 10.97L12 8.43L15.62 10.97L14.25 15H9.75M12 20.03C11.12 20.03 10.29 19.89 9.5 19.61L8.81 18.1L9.47 17H14.58L15.19 18.1L14.5 19.61C13.71 19.89 12.88 20.03 12 20.03M5.94 17.21C5.41 16.59 4.95 15.76 4.56 14.75C4.17 13.73 3.97 12.81 3.97 12C3.97 11.94 4 11.88 4 11.81C4 11.75 4 11.7 4 11.67L5 10.92L6.41 11.39L7.87 15.76L7.07 17.12L5.94 17.21M11 5.29V6.69L7 9.46L5.66 9.04L5.24 7.68C5.68 7 6.33 6.32 7.19 5.66S8.87 4.57 9.65 4.35L11 5.29M14.35 4.35C15.13 4.57 15.95 5 16.81 5.66C17.67 6.32 18.32 7 18.76 7.68L18.34 9.04L17 9.47L13 6.7V5.29L14.35 4.35M4.93 4.93C3 6.89 2 9.25 2 12S3 17.11 4.93 19.07 9.25 22 12 22 17.11 21 19.07 19.07 22 14.75 22 12 21 6.89 19.07 4.93 14.75 2 12 2 6.89 3 4.93 4.93Z",
+    "iconSize": 24
   },
   {
     "name": "Thước kẻ",
@@ -177,7 +215,9 @@
     "image": "assets/objects/20.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Diverse%C2%B7Ma%C3%9Fst%C3%A4be%2C15.365.jpg",
     "license": "CC BY-SA 3.0",
-    "artist": "Geof"
+    "artist": "Geof",
+    "iconPath": "M1.39,18.36L3.16,16.6L4.58,18L5.64,16.95L4.22,15.54L5.64,14.12L8.11,16.6L9.17,15.54L6.7,13.06L8.11,11.65L9.53,13.06L10.59,12L9.17,10.59L10.59,9.17L13.06,11.65L14.12,10.59L11.65,8.11L13.06,6.7L14.47,8.11L15.54,7.05L14.12,5.64L15.54,4.22L18,6.7L19.07,5.64L16.6,3.16L18.36,1.39L22.61,5.64L5.64,22.61L1.39,18.36Z",
+    "iconSize": 24
   },
   {
     "name": "Bàn phím máy tính",
@@ -186,7 +226,9 @@
     "image": "assets/objects/21.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Black_computer_keyboard.jpg",
     "license": "Public domain",
-    "artist": "Marius Iordache"
+    "artist": "Marius Iordache",
+    "iconPath": "M19,10H17V8H19M19,13H17V11H19M16,10H14V8H16M16,13H14V11H16M16,17H8V15H16M7,10H5V8H7M7,13H5V11H7M8,11H10V13H8M8,8H10V10H8M11,11H13V13H11M11,8H13V10H11M20,5H4C2.89,5 2,5.89 2,7V17A2,2 0 0,0 4,19H20A2,2 0 0,0 22,17V7C22,5.89 21.1,5 20,5Z",
+    "iconSize": 24
   },
   {
     "name": "Gối ngủ",
@@ -195,7 +237,9 @@
     "image": "assets/objects/22.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "Amin"
+    "artist": "Amin",
+    "iconPath": "M14 27 Q7 17 23 13 Q51 5 77 13 Q94 15 86 29 Q96 50 86 71 Q94 85 77 87 Q50 95 23 87 Q7 84 14 71 Q4 50 14 27Z M23 28 Q50 21 77 28 Q68 50 77 72 Q50 79 23 72 Q32 50 23 28Z",
+    "iconSize": 100
   },
   {
     "name": "Cây đàn guitar",
@@ -204,7 +248,9 @@
     "image": "assets/objects/23.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:GuitareClassique5.png",
     "license": "CC BY-SA 2.0 de",
-    "artist": "User:Martin Möller Talk"
+    "artist": "User:Martin Möller Talk",
+    "iconPath": "M19.59,3H22V5H20.41L16.17,9.24C15.8,8.68 15.32,8.2 14.76,7.83L19.59,3M12,8A4,4 0 0,1 16,12C16,13.82 14.77,15.42 13,15.87V16A5,5 0 0,1 8,21A5,5 0 0,1 3,16A5,5 0 0,1 8,11H8.13C8.58,9.24 10.17,8 12,8M12,10.5A1.5,1.5 0 0,0 10.5,12A1.5,1.5 0 0,0 12,13.5A1.5,1.5 0 0,0 13.5,12A1.5,1.5 0 0,0 12,10.5M6.94,14.24L6.23,14.94L9.06,17.77L9.77,17.06L6.94,14.24Z",
+    "iconSize": 24
   },
   {
     "name": "Bàn học",
@@ -213,7 +259,9 @@
     "image": "assets/objects/24.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Bureau_table_MET_DP108643.jpg",
     "license": "CC0",
-    "artist": "John Townsend"
+    "artist": "John Townsend",
+    "iconPath": "M2 7H22V10H20L21 19H18.5L17.94 14H6.06L5.5 19H3L4 10H2V7M17.5 10H6.5L6.29 12H17.71L17.5 10Z",
+    "iconSize": 24
   },
   {
     "name": "Xe đạp",
@@ -222,7 +270,9 @@
     "image": "assets/objects/25.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
     "license": "CC BY 2.0",
-    "artist": "齐健 from Peking, People's Republic of China"
+    "artist": "齐健 from Peking, People's Republic of China",
+    "iconPath": "M19 10C18.44 10 17.91 10.11 17.41 10.28L14.46 4.5H11V6H13.54L14.42 7.72L12 13.13L10.23 8.95C10.5 8.85 10.74 8.58 10.74 8.25C10.74 7.84 10.41 7.5 10 7.5H8C7.58 7.5 7.24 7.84 7.24 8.25S7.58 9 8 9H8.61L10.86 14.25H9.92C9.56 11.85 7.5 10 5 10C2.24 10 0 12.24 0 15S2.24 20 5 20C7.5 20 9.56 18.15 9.92 15.75H12.5L15.29 9.43L16.08 10.96C14.82 11.87 14 13.34 14 15C14 17.76 16.24 20 19 20S24 17.76 24 15 21.76 10 19 10M5 18.5C3.07 18.5 1.5 16.93 1.5 15S3.07 11.5 5 11.5C6.67 11.5 8.07 12.68 8.41 14.25H4V15.75H8.41C8.07 17.32 6.67 18.5 5 18.5M19 18.5C17.07 18.5 15.5 16.93 15.5 15C15.5 13.92 16 12.97 16.77 12.33L18.57 15.85L19.89 15.13L18.1 11.63C18.39 11.56 18.69 11.5 19 11.5C20.93 11.5 22.5 13.07 22.5 15S20.93 18.5 19 18.5Z",
+    "iconSize": 24
   },
   {
     "name": "Người trưởng thành",
@@ -231,7 +281,9 @@
     "image": "assets/objects/26.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
     "license": "CC BY-SA 2.0 de",
-    "artist": "Weltenbummler84"
+    "artist": "Weltenbummler84",
+    "iconPath": "M12,2A2,2 0 0,1 14,4A2,2 0 0,1 12,6A2,2 0 0,1 10,4A2,2 0 0,1 12,2M10.5,7H13.5A2,2 0 0,1 15.5,9V14.5H14V22H10V14.5H8.5V9A2,2 0 0,1 10.5,7Z",
+    "iconSize": 24
   },
   {
     "name": "Cửa ra vào",
@@ -240,7 +292,9 @@
     "image": "assets/objects/27.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:20260114_The_Door.jpg",
     "license": "CC BY 4.0",
-    "artist": "Sergey A. Demidov / Sergey A. Demidov"
+    "artist": "Sergey A. Demidov / Sergey A. Demidov",
+    "iconPath": "M8,3C6.89,3 6,3.89 6,5V21H18V5C18,3.89 17.11,3 16,3H8M8,5H16V19H8V5M13,11V13H15V11H13Z",
+    "iconSize": 24
   },
   {
     "name": "Giường đôi",
@@ -249,7 +303,9 @@
     "image": "assets/objects/28.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_%2811%29.jpg",
     "license": "CC BY-SA 3.0",
-    "artist": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia)"
+    "artist": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia)",
+    "iconPath": "M18 10V7A2 2 0 0 0 16 5H8A2 2 0 0 0 6 7V10A2 2 0 0 0 4 12V17H5.33L6 19H7L7.67 17H16.33L17 19H18L18.67 17H20V12A2 2 0 0 0 18 10M11 10H8V7H11M16 10H13V7H16Z",
+    "iconSize": 24
   },
   {
     "name": "Ô tô con",
@@ -258,7 +314,9 @@
     "image": "assets/objects/29.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:White_Toyota_Corolla_sedan_in_San_Jose_California_dllu.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "Daniel Lu (User:dllu)"
+    "artist": "Daniel Lu (User:dllu)",
+    "iconPath": "M16,6L19,10H21C22.11,10 23,10.89 23,12V15H21A3,3 0 0,1 18,18A3,3 0 0,1 15,15H9A3,3 0 0,1 6,18A3,3 0 0,1 3,15H1V12C1,10.89 1.89,10 3,10L6,6H16M10.5,7.5H6.75L4.86,10H10.5V7.5M12,7.5V10H17.14L15.25,7.5H12M6,13.5A1.5,1.5 0 0,0 4.5,15A1.5,1.5 0 0,0 6,16.5A1.5,1.5 0 0,0 7.5,15A1.5,1.5 0 0,0 6,13.5M18,13.5A1.5,1.5 0 0,0 16.5,15A1.5,1.5 0 0,0 18,16.5A1.5,1.5 0 0,0 19.5,15A1.5,1.5 0 0,0 18,13.5Z",
+    "iconSize": 24
   },
   {
     "name": "Xe buýt",
@@ -267,7 +325,9 @@
     "image": "assets/objects/30.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
     "license": "CC BY-SA 4.0",
-    "artist": "SIA321"
+    "artist": "SIA321",
+    "iconPath": "M3,6C1.89,6 1,6.89 1,8V15H3A3,3 0 0,0 6,18A3,3 0 0,0 9,15H15A3,3 0 0,0 18,18A3,3 0 0,0 21,15H23V8C23,6.89 22.11,6 21,6H3M2.5,7.5H6.5V10H2.5V7.5M8,7.5H12V10H8V7.5M13.5,7.5H17.5V10H13.5V7.5M19,7.5H21.5V13L19,11V7.5M6,13.5A1.5,1.5 0 0,1 7.5,15A1.5,1.5 0 0,1 6,16.5A1.5,1.5 0 0,1 4.5,15A1.5,1.5 0 0,1 6,13.5M18,13.5A1.5,1.5 0 0,1 19.5,15A1.5,1.5 0 0,1 18,16.5A1.5,1.5 0 0,1 16.5,15A1.5,1.5 0 0,1 18,13.5Z",
+    "iconSize": 24
   },
   {
     "name": "Cột đèn đường",
@@ -276,7 +336,9 @@
     "image": "assets/objects/31.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Street_lamp.jpg",
     "license": "Public domain",
-    "artist": "Mschel"
+    "artist": "Mschel",
+    "iconPath": "M42 92 H62 V85 H55 V26 H77 V18 H89 V9 H77 V13 H47 V19 H38 V26 H47 V85 H42Z M44 13 L18 4 L14 11 L38 20Z",
+    "iconSize": 100
   },
   {
     "name": "Hồ bơi thi đấu",
@@ -285,7 +347,9 @@
     "image": "assets/objects/32.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Backyardpool.jpg",
     "license": "CC BY 2.0",
-    "artist": "Vic Brincat from Keswick, Ontario, Canada"
+    "artist": "Vic Brincat from Keswick, Ontario, Canada",
+    "iconPath": "M5 10 H95 V90 H5Z M11 19 H89 V22 H11Z M11 34 H89 V37 H11Z M11 49 H89 V52 H11Z M11 64 H89 V67 H11Z M11 79 H89 V82 H11Z",
+    "iconSize": 100
   },
   {
     "name": "Máy bay chở khách",
@@ -294,7 +358,9 @@
     "image": "assets/objects/33.webp",
     "imageSource": "https://commons.wikimedia.org/wiki/File:United_A320_N405UA_at_BOS_%2833787222465%29.jpg",
     "license": "CC BY-SA 2.0",
-    "artist": "G B_NZ"
+    "artist": "G B_NZ",
+    "iconPath": "M20.56 3.91C21.15 4.5 21.15 5.45 20.56 6.03L16.67 9.92L18.79 19.11L17.38 20.53L13.5 13.1L9.6 17L9.96 19.47L8.89 20.53L7.13 17.35L3.94 15.58L5 14.5L7.5 14.87L11.37 11L3.94 7.09L5.36 5.68L14.55 7.8L18.44 3.91C19 3.33 20 3.33 20.56 3.91Z",
+    "iconSize": 24
   },
   {
     "name": "Sân bóng đá",
@@ -303,7 +369,9 @@
     "image": "assets/objects/34.webp",
     "imageSource": "https://unsplash.com/photos/empty-football-field-in-aerial-photgraphy-raesgfwU7iM",
     "license": "Unsplash License",
-    "artist": "Victor"
+    "artist": "Victor",
+    "iconPath": "M4,4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4H4M4,6H11V8.13C9.24,8.59 8,10.18 8,12C8,13.82 9.24,15.41 11,15.87V18H4V16H7V8H4V6M13,6H20V8H17V16H20V18H13V15.87C14.76,15.41 16,13.82 16,12C16,10.18 14.76,8.59 13,8.13V6M4,10H5V14H4V10M19,10H20V14H19V10M13,10.27C13.62,10.63 14,11.29 14,12C14,12.71 13.62,13.37 13,13.73V10.27M11,10.27V13.73C10.38,13.37 10,12.71 10,12C10,11.29 10.38,10.63 11,10.27Z",
+    "iconSize": 24
   },
   {
     "name": "Tháp Eiffel",
@@ -312,6 +380,173 @@
     "image": "assets/objects/35.webp",
     "imageSource": "https://unsplash.com/photos/0UGBFphLYeE",
     "license": "Unsplash License",
-    "artist": "Calvin Craig"
+    "artist": "Calvin Craig",
+    "iconPath": "M8.21 17C8.65 16.15 9.06 15.16 9.44 14H9V12H10C10.61 9.4 11 6.13 11 2H13C13 6.13 13.4 9.4 14 12H15V14H14.56C14.94 15.16 15.35 16.15 15.79 17H17L17 19L19 22H16.58C15.81 20.24 14.05 19 12 19C9.95 19 8.19 20.24 7.42 22H5L7 19L6.97 17H8.21M12.59 14H11.41C11.07 15.13 10.69 16.13 10.28 17H13.72C13.32 16.13 12.93 15.13 12.59 14Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Đèn pin",
+    "size": 15,
+    "unit": "cm",
+    "image": "assets/objects/36.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Flashlight.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "KMJ at German Wikipedia",
+    "iconPath": "M9,10L6,5H18L15,10H9M18,4H6V2H18V4M9,22V11H15V22H9M12,13A1,1 0 0,0 11,14A1,1 0 0,0 12,15A1,1 0 0,0 13,14A1,1 0 0,0 12,13Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Bàn chải đánh răng",
+    "size": 19,
+    "unit": "cm",
+    "image": "assets/objects/37.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Toothbrush_20050716_004.jpg",
+    "license": "Public domain",
+    "artist": "Jonas Bergsten",
+    "iconPath": "M12.91 6.43L15.03 8.55L16.09 7.5L15.03 6.43L17.86 3.6L18.92 4.66L20 3.6L17.86 1.5M3 20.57L4.43 22L14.5 11.9L16.63 11.19L21.4 6.43C22.18 5.65 22.18 4.38 21.4 3.6L15.55 9.44L13.43 10.15Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Cái kéo",
+    "size": 20,
+    "unit": "cm",
+    "image": "assets/objects/38.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Pair_of_scissors_with_black_handle,_2015-06-07.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Crisco 1492",
+    "iconPath": "M19,3L13,9L15,11L22,4V3M12,12.5A0.5,0.5 0 0,1 11.5,12A0.5,0.5 0 0,1 12,11.5A0.5,0.5 0 0,1 12.5,12A0.5,0.5 0 0,1 12,12.5M6,20A2,2 0 0,1 4,18C4,16.89 4.9,16 6,16A2,2 0 0,1 8,18C8,19.11 7.1,20 6,20M6,8A2,2 0 0,1 4,6C4,4.89 4.9,4 6,4A2,2 0 0,1 8,6C8,7.11 7.1,8 6,8M9.64,7.64C9.87,7.14 10,6.59 10,6A4,4 0 0,0 6,2A4,4 0 0,0 2,6A4,4 0 0,0 6,10C6.59,10 7.14,9.87 7.64,9.64L10,12L7.64,14.36C7.14,14.13 6.59,14 6,14A4,4 0 0,0 2,18A4,4 0 0,0 6,22A4,4 0 0,0 10,18C10,17.41 9.87,16.86 9.64,16.36L12,14L19,21H22V20L9.64,7.64Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Cốc thủy tinh",
+    "size": 12,
+    "unit": "cm",
+    "image": "assets/objects/39.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Glass-of-water.jpg",
+    "license": "Public domain",
+    "artist": "Derek Jensen (Tysto)",
+    "iconPath": "M18 10 H82 L74 88 Q50 96 26 88Z M27 17 L33 80 Q50 87 67 80 L73 17Z",
+    "iconSize": 100
+  },
+  {
+    "name": "Thìa ăn",
+    "size": 18,
+    "unit": "cm",
+    "image": "assets/objects/40.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Small_spoon.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Dodek",
+    "iconPath": "M14.88,11.53L5.12,21.29L3.71,19.88L13.47,10.12C12.76,8.59 13.26,6.44 14.85,4.85C16.76,2.93 19.5,2.57 20.96,4.03C22.43,5.5 22.07,8.24 20.15,10.15C18.56,11.74 16.41,12.24 14.88,11.53Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Đồng hồ đeo tay",
+    "size": 22,
+    "unit": "cm",
+    "image": "assets/objects/41.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Cvmontuy",
+    "iconPath": "M6,12A6,6 0 0,1 12,6A6,6 0 0,1 18,12A6,6 0 0,1 12,18A6,6 0 0,1 6,12M20,12C20,9.45 18.81,7.19 16.95,5.73L16,0H8L7.05,5.73C5.19,7.19 4,9.45 4,12C4,14.54 5.19,16.81 7.05,18.27L8,24H16L16.95,18.27C18.81,16.81 20,14.54 20,12Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Máy ảnh",
+    "size": 12,
+    "unit": "cm",
+    "image": "assets/objects/42.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:12_MP_digital_camera_-_red.jpg",
+    "license": "CC0",
+    "artist": "Packer1028",
+    "iconPath": "M4,4H7L9,2H15L17,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4M12,7A5,5 0 0,0 7,12A5,5 0 0,0 12,17A5,5 0 0,0 17,12A5,5 0 0,0 12,7M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Quả bóng rổ",
+    "size": 24,
+    "unit": "cm",
+    "image": "assets/objects/43.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Basketball.jpeg",
+    "license": "Public domain",
+    "artist": "Reisio",
+    "iconPath": "M2.34,14.63C2.94,14.41 3.56,14.3 4.22,14.3C5.56,14.3 6.73,14.72 7.73,15.56L4.59,18.7C3.53,17.5 2.78,16.13 2.34,14.63M15.56,9.8C17.53,11.27 19.66,11.63 21.94,10.88C21.97,11.09 22,11.47 22,12C22,13.03 21.75,14.18 21.28,15.45C20.81,16.71 20.23,17.73 19.55,18.5L13.22,12.19L15.56,9.8M8.77,16.64C9.83,18.17 10.05,19.84 9.42,21.66C8,21.25 6.73,20.61 5.67,19.73L8.77,16.64M12.19,13.22L18.5,19.55C16.33,21.45 13.78,22.25 10.88,21.94C11.09,21.28 11.2,20.56 11.2,19.78C11.2,19.16 11.06,18.43 10.78,17.6C10.5,16.77 10.17,16.09 9.8,15.56L12.19,13.22M8.81,14.5C7.88,13.67 6.8,13.15 5.58,12.91C4.36,12.68 3.19,12.75 2.06,13.13C2.03,12.91 2,12.53 2,12C2,10.97 2.25,9.82 2.72,8.55C3.19,7.29 3.77,6.27 4.45,5.5L11.11,12.19L8.81,14.5M15.56,7.73C14.22,6.08 13.91,4.28 14.63,2.34C15.25,2.5 15.96,2.8 16.76,3.26C17.55,3.71 18.2,4.16 18.7,4.59L15.56,7.73M21.66,9.38C21.06,9.59 20.44,9.7 19.78,9.7C18.69,9.7 17.64,9.38 16.64,8.72L19.73,5.67C20.61,6.77 21.25,8 21.66,9.38M12.19,11.11L5.5,4.45C7.67,2.55 10.22,1.75 13.13,2.06C12.91,2.72 12.8,3.44 12.8,4.22C12.8,4.94 12.96,5.75 13.29,6.66C13.62,7.56 14,8.28 14.5,8.81L12.19,11.11Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Va li",
+    "size": 60,
+    "unit": "cm",
+    "image": "assets/objects/44.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Suitcase_BW_2025-08-17_14-54-11.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Berthold Werner",
+    "iconPath": "M17.03 6C18.11 6 19 6.88 19 8V19C19 20.13 18.11 21 17.03 21C17.03 21.58 16.56 22 16 22C15.5 22 15 21.58 15 21H9C9 21.58 8.5 22 8 22C7.44 22 6.97 21.58 6.97 21C5.89 21 5 20.13 5 19V8C5 6.88 5.89 6 6.97 6H9V3C9 2.42 9.46 2 10 2H14C14.54 2 15 2.42 15 3V6H17.03M13.5 6V3.5H10.5V6H13.5M8 9V18H9.5V9H8M14.5 9V18H16V9H14.5M11.25 9V18H12.75V9H11.25Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Máy tính xách tay",
+    "size": 34,
+    "unit": "cm",
+    "image": "assets/objects/45.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:A_One_Laptop_per_Child_computer_(1273754008).jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Simon Law from Montréal, QC, Canada",
+    "iconPath": "M4,6H20V16H4M20,18A2,2 0 0,0 22,16V6C22,4.89 21.1,4 20,4H4C2.89,4 2,4.89 2,6V16A2,2 0 0,0 4,18H0V20H24V18H20Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Ghế gỗ",
+    "size": 90,
+    "unit": "cm",
+    "image": "assets/objects/46.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Wooden_Chair.jpg",
+    "license": "CC BY 2.0",
+    "artist": "epSos.de",
+    "iconPath": "M28 7 H72 V55 H28Z M34 15 V47 H66 V15Z M18 53 H82 V65 H76 V92 H68 V65 H32 V92 H24 V65 H18Z",
+    "iconSize": 100
+  },
+  {
+    "name": "Tủ lạnh",
+    "size": 180,
+    "unit": "cm",
+    "image": "assets/objects/47.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Panasonic_HOME_REFRIGERATOR_NR-C320WP-N.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Dinkun Chen",
+    "iconPath": "M7,2H17A2,2 0 0,1 19,4V9H5V4A2,2 0 0,1 7,2M19,19A2,2 0 0,1 17,21V22H15V21H9V22H7V21A2,2 0 0,1 5,19V10H19V19M8,5V7H10V5H8M8,12V15H10V12H8Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Cây thông",
+    "size": 10,
+    "unit": "m",
+    "image": "assets/objects/48.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Isolated_pine_tree_on_Witton_Fell_-_geograph.org.uk_-_638627.jpg",
+    "license": "CC BY-SA 2.0",
+    "artist": "Mick Borroff",
+    "iconPath": "M10,21V18H3L8,13H5L10,8H7L12,3L17,8H14L19,13H16L21,18H14V21H10Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Xe máy",
+    "size": 2.2,
+    "unit": "m",
+    "image": "assets/objects/49.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Side-view_of_the_Horex_VR6_Classic_motorcycle.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Yanko Malinov",
+    "iconPath": "M17.42,10L13.41,6H9V8H12.59L14.59,10H6.5C4,10 2,12 2,14.5C2,17 4,19 6.5,19C8.72,19 10.56,17.38 10.92,15.27L13.04,14C13,14.17 13,14.33 13,14.5C13,17 15,19 17.5,19C20,19 22,17 22,14.5C22,12 20,10 17.5,10M8.84,15.26C8.5,16.27 7.58,17 6.47,17C5.09,17 3.97,15.88 3.97,14.5C3.97,13.12 5.09,12 6.47,12C7.59,12 8.5,12.74 8.84,13.75H6V15.25L8.84,15.26M17.47,17C16.09,17 14.97,15.88 14.97,14.5C14.97,13.12 16.09,12 17.47,12A2.5,2.5 0 0,1 19.97,14.5A2.5,2.5 0 0,1 17.47,17Z",
+    "iconSize": 24
+  },
+  {
+    "name": "Ô gấp",
+    "size": 90,
+    "unit": "cm",
+    "image": "assets/objects/50.webp",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Umbrella_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "C.Suthorn",
+    "iconPath": "M12,2A9,9 0 0,1 21,11H13V19A3,3 0 0,1 10,22A3,3 0 0,1 7,19V18H9V19A1,1 0 0,0 10,20A1,1 0 0,0 11,19V11H3A9,9 0 0,1 12,2Z",
+    "iconSize": 24
   }
 ]
