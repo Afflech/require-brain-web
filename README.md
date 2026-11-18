@@ -28,7 +28,7 @@ Kích thước trong `data/objects.json` là số đo tham khảo gần đúng t
 
 ## Deploy
 
-Repository: [Afflech/doan-nhanh-web-game](https://github.com/Afflech/doan-nhanh-web-game) (riêng tư). Mã nguồn đã ở nhánh `main`. GitHub Pages chưa được bật; khi cần bản demo công khai, đổi mức hiển thị repo theo lựa chọn của chủ dự án rồi bật Pages từ thư mục gốc.
+Repository công khai: [Afflech/require-brain-web](https://github.com/Afflech/require-brain-web). Mã nguồn ở nhánh `main`. GitHub Pages chưa được bật; khi cần bản demo, bật Pages từ thư mục gốc.
 
 ## Ảnh game kích thước
 
